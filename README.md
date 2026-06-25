@@ -1,2 +1,2 @@
 # Mera_Veshei
-Fashion media. Student project.
+[Visit site](https://nikdsa.github.io/Mera_Veshei/)
